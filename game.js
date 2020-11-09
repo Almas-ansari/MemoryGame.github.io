@@ -50,7 +50,7 @@ function CheckAnswer() {
 
   }
   else if (answer=="") {
-    document.getElementById('result').innerHTML="You cannot left field empty, Try again wth a number"
+    document.getElementById('result').innerHTML="You cannot left field empty, Try again with a number"
 
   }
   else {
